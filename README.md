@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Christine Here ! 🎀
 
 **Front-End Developer | React & Tailwind | Python/FastAPI Backends**
@@ -54,6 +52,7 @@ I enjoy clean commits, clear pull requests, and collaborating in environments wh
 - Portfolio: *https://christine-portfolio-mu.vercel.app/*   
 
 ---
+<div align="center">
 
 ### 💜 GitHub Stats & Streak
 
