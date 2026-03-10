@@ -37,7 +37,7 @@ I’m a software developer who loves turning ideas into smooth, production-ready
 
 ---
 
-## 🎀 Tools & Workflow
+# 🎀 Tools & Workflow
 
 - Git & GitHub  
 - Linux & terminal workflows  
@@ -48,10 +48,12 @@ I enjoy clean commits, clear pull requests, and collaborating in environments wh
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - LinkedIn: *https://www.linkedin.com/in/christinemumbi286/*  
 - Portfolio: *https://christine-portfolio-mu.vercel.app/*   
+
+---
 
 ### 💜 GitHub Stats & Streak
 
