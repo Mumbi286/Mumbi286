@@ -52,7 +52,7 @@ I enjoy clean commits, clear pull requests, and collaborating in environments wh
 - Portfolio: *https://christine-portfolio-mu.vercel.app/*   
 
 ---
-<div align="center">
+<!-- <div align="center">
 
 ### 💜 GitHub Stats & Streak
 
@@ -62,6 +62,6 @@ I enjoy clean commits, clear pull requests, and collaborating in environments wh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumbi286&layout=compact&theme=midnight-purple)
 
-</div>
+</div> -->
 
 ---
