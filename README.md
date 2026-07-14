@@ -51,7 +51,7 @@ I'm most interested in the space where **backend engineering meets AI**, buildin
 | **AI & Data** | <img src="https://img.shields.io/badge/LLM%20API%20Integration-2C1810?style=for-the-badge" title="LLM API Integration" valign="middle" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-A47551?style=for-the-badge&logoColor=F5E6D3" title="Prompt Engineering" valign="middle" /> <img src="https://img.shields.io/badge/Pydantic%20%26%20Schema%20Design-6B4A32?style=for-the-badge" title="Pydantic & Schema Design" valign="middle" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" height="40" valign="middle" /> |
 
-<!-- SECTION 4: FEATURED PROJECTS goes here -->
+<!-- SECTION 4: FEATURED PROJECTS  -->
 
 ###  Where I'm headed
 
@@ -60,6 +60,20 @@ I'm most interested in the space where **backend engineering meets AI**, buildin
 - **Cloud deployment & production infrastructure** - because software isn't done until it's live
 - **Tech that creates real-world impact in Africa** - building for problems I can see from where I stand
 
-<!-- SECTION 6: GITHUB STATS goes here -->
+<!-- SECTION 6: GITHUB STATS -->
+### GitHub Stats
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mumbi286&theme=gruvbox" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mumbi286&theme=solarized" alt="Christine's GitHub Profile Details" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mumbi286&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=A47551&currStreakNum=F5E6D3&sideNums=F5E6D3&dates=A47551" />
+    <img src="https://streak-stats.demolab.com/?user=Mumbi286&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=6B4A32&currStreakNum=2C1810&sideNums=2C1810&dates=6B4A32" alt="Christine's Contribution Streak" />
+  </picture>
+</p>
+
 
 <!-- SECTION 8: PERSONAL TOUCH + CONTACT FOOTER goes here -->
