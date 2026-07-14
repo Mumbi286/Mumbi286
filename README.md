@@ -34,7 +34,8 @@ def about():
     }
 ```
 
-I'm most interested in the space where **backend engineering meets AI**, building APIs that put LLMs to work on real problems, like the field monitoring platform I designed, built, and deployed end to end.
+I'm most interested in the space where **backend engineering meets AI**, building APIs that put LLMs to work on real problems
+<!-- like the field monitoring platform I designed, built, and deployed end to end. -->
 
 ## Currently
 
