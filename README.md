@@ -77,4 +77,4 @@ I'm most interested in the space where **backend engineering meets AI**, buildin
 </p>
 
 
-<!-- SECTION 8: PERSONAL TOUCH + CONTACT FOOTER goes here -->
+<!-- SECTION 8: PERSONAL TOUCH + CONTACT FOOTER  -->
