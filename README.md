@@ -29,7 +29,7 @@ def about():
         "also_speaks": ["React", "TailwindCSS"],
         "current_focus": "LLM-powered APIs",
         "ships_to": "production",  # from localhost to live
-        "location": "Nairobi, Kenya",
+        "location": "Kenya",
         "status": "open to backend roles",
     }
 ```
