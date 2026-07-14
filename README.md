@@ -49,11 +49,16 @@ I'm most interested in the space where **backend engineering meets AI**, buildin
 | **Backend** | <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=django&theme=dark" title="Django" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" height="40" valign="middle" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="TailwindCSS" height="40" valign="middle" /> |
 | **AI & Data** | <img src="https://img.shields.io/badge/LLM%20API%20Integration-2C1810?style=for-the-badge" title="LLM API Integration" valign="middle" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-A47551?style=for-the-badge&logoColor=F5E6D3" title="Prompt Engineering" valign="middle" /> <img src="https://img.shields.io/badge/Pydantic%20%26%20Schema%20Design-6B4A32?style=for-the-badge" title="Pydantic & Schema Design" valign="middle" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" height="40" valign="middle" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" height="40" valign="middle" /> <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" height="40" valign="middle" /> |
 
 <!-- SECTION 4: FEATURED PROJECTS goes here -->
 
-<!-- SECTION 5: WHERE I'M HEADED goes here -->
+###  Where I'm headed
+
+- **Backend engineering & API design** - the craft I'm building my career on
+- **AI-enabled applications** - wiring LLMs into APIs that solve real problems
+- **Cloud deployment & production infrastructure** - because software isn't done until it's live
+- **Tech that creates real-world impact in Africa** - building for problems I can see from where I stand
 
 <!-- SECTION 6: GITHUB STATS goes here -->
 
