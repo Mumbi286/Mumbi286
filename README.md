@@ -69,12 +69,12 @@ I'm most interested in the space where **backend engineering meets AI**, buildin
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mumbi286&theme=solarized" alt="Christine's GitHub Profile Details" width="100%" />
   </picture>
 </p>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mumbi286&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=A47551&currStreakNum=F5E6D3&sideNums=F5E6D3&dates=A47551" />
     <img src="https://streak-stats.demolab.com/?user=Mumbi286&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=6B4A32&currStreakNum=2C1810&sideNums=2C1810&dates=6B4A32" alt="Christine's Contribution Streak" />
   </picture>
-</p>
+</p> -->
 
 
 <!-- SECTION 8: PERSONAL TOUCH + CONTACT FOOTER  -->
