@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://christine-portfolio-mu.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2C1810?style=for-the-badge&logo=About.me&logoColor=F5E6D3" alt="Portfolio" /></a>
+  <a href="https://wambui-dev.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2C1810?style=for-the-badge&logo=About.me&logoColor=F5E6D3" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/christinemumbi286/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-A47551?style=for-the-badge&logo=linkedin&logoColor=F5E6D3" alt="LinkedIn" /></a>
   <a href="mailto:christinemumbi286@gmail.com"><img src="https://img.shields.io/badge/Email-6B4A32?style=for-the-badge&logo=gmail&logoColor=F5E6D3" alt="Email" /></a>
 </p>
